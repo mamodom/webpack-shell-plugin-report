@@ -1,0 +1,13 @@
+{
+  "name": "webpack-shell-plugin-report",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^2.4.1",
+    "webpack-shell-plugin": "^0.5.0"
+  },
+  "scripts": {
+    "start": "node ./build/bundle.js",
+    "build": "webpack"
+  },
+  "license": "ISC"
+}
